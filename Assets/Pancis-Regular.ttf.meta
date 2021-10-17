@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a996f5ca65e625e4f92ee835200f9512
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pancis
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d47678a55dceb3f418b7f173b3e77898, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
